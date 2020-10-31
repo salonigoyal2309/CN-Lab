@@ -1,0 +1,10 @@
+Sconfig 0.00000 tap: on snoop: rts? on errs? on
+Sconfig 0.00000 salvage: on !bd replies? on
+Sconfig 0.00000 grat error: on grat reply: on
+Sconfig 0.00000 $reply for props: on ring 0 search: on
+Sconfig 0.00000 using MOBICACHE
+M 0.20000 17 (54.00, -84.00, 0.00), (720.00, 170.00), 80.00
+M 0.20000 23 (589.00, -56.00, 0.00), (450.00, 144.00), 50.00
+M 0.30000 8 (1187.00, 99.00, 0.00), (750.00, 55.00), 50.00
+M 0.40000 16 (351.00, -184.00, 0.00), (742.00, 280.00), 50.00
+M 0.50000 15 (1019.00, -17.00, 0.00), (739.00, 46.00), 80.00
